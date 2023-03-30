@@ -8,17 +8,47 @@
 
 /* Begin PBXBuildFile section */
 		5DB53A4F29D5280A003CF240 /* AljerahApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DB53A4E29D5280A003CF240 /* AljerahApp.swift */; };
-		5DB53A5129D5280A003CF240 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DB53A5029D5280A003CF240 /* ContentView.swift */; };
-		5DB53A5329D5280A003CF240 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5DB53A5229D5280A003CF240 /* Assets.xcassets */; };
 		5DB53A5629D5280A003CF240 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5DB53A5529D5280A003CF240 /* Preview Assets.xcassets */; };
+		5DB53A5D29D52833003CF240 /* SplashScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DB53A5C29D52833003CF240 /* SplashScreen.swift */; };
+		5DB53A6729D52921003CF240 /* Helper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DB53A6629D52921003CF240 /* Helper.swift */; };
+		5DB53A6929D52930003CF240 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DB53A6829D52930003CF240 /* Extensions.swift */; };
+		5DB53A6C29D529A0003CF240 /* TabBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DB53A6B29D529A0003CF240 /* TabBar.swift */; };
+		5DB53A6E29D52A57003CF240 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5DB53A6D29D52A57003CF240 /* Assets.xcassets */; };
+		5DB53A7029D52AE4003CF240 /* HomePageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DB53A6F29D52AE4003CF240 /* HomePageView.swift */; };
+		5DB53A7229D52AF6003CF240 /* NewsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DB53A7129D52AF6003CF240 /* NewsView.swift */; };
+		5DB53A7429D52B05003CF240 /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DB53A7329D52B05003CF240 /* ProfileView.swift */; };
+		5DB53A7629D52B76003CF240 /* ScrollingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DB53A7529D52B76003CF240 /* ScrollingView.swift */; };
+		5DB53A7829D52D70003CF240 /* Modifiers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DB53A7729D52D70003CF240 /* Modifiers.swift */; };
+		5DB53A7A29D52FB7003CF240 /* SingleSelector.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DB53A7929D52FB7003CF240 /* SingleSelector.swift */; };
+		5DB53A7D29D59A6D003CF240 /* ServicesModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DB53A7C29D59A6D003CF240 /* ServicesModel.swift */; };
+		5DB53A8129D59B1D003CF240 /*  NeighborhoodServicesModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DB53A8029D59B1D003CF240 /*  NeighborhoodServicesModel.swift */; };
+		5DB53A8629D5ED2A003CF240 /* ServicesVM.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DB53A8529D5ED2A003CF240 /* ServicesVM.swift */; };
+		5DB53A8B29D63C16003CF240 /* NeighborhoodServicesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DB53A8A29D63C16003CF240 /* NeighborhoodServicesView.swift */; };
+		5DB53A8D29D641A2003CF240 /* listView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DB53A8C29D641A2003CF240 /* listView.swift */; };
+		5DB53A8F29D64236003CF240 /* ListElement.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DB53A8E29D64236003CF240 /* ListElement.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		5DB53A4B29D5280A003CF240 /* Aljerah.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Aljerah.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5DB53A4E29D5280A003CF240 /* AljerahApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AljerahApp.swift; sourceTree = "<group>"; };
-		5DB53A5029D5280A003CF240 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		5DB53A5229D5280A003CF240 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5DB53A5529D5280A003CF240 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		5DB53A5C29D52833003CF240 /* SplashScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplashScreen.swift; sourceTree = "<group>"; };
+		5DB53A6629D52921003CF240 /* Helper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Helper.swift; sourceTree = "<group>"; };
+		5DB53A6829D52930003CF240 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
+		5DB53A6B29D529A0003CF240 /* TabBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBar.swift; sourceTree = "<group>"; };
+		5DB53A6D29D52A57003CF240 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		5DB53A6F29D52AE4003CF240 /* HomePageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomePageView.swift; sourceTree = "<group>"; };
+		5DB53A7129D52AF6003CF240 /* NewsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewsView.swift; sourceTree = "<group>"; };
+		5DB53A7329D52B05003CF240 /* ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
+		5DB53A7529D52B76003CF240 /* ScrollingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollingView.swift; sourceTree = "<group>"; };
+		5DB53A7729D52D70003CF240 /* Modifiers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Modifiers.swift; sourceTree = "<group>"; };
+		5DB53A7929D52FB7003CF240 /* SingleSelector.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SingleSelector.swift; sourceTree = "<group>"; };
+		5DB53A7C29D59A6D003CF240 /* ServicesModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ServicesModel.swift; sourceTree = "<group>"; };
+		5DB53A8029D59B1D003CF240 /*  NeighborhoodServicesModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = " NeighborhoodServicesModel.swift"; sourceTree = "<group>"; };
+		5DB53A8529D5ED2A003CF240 /* ServicesVM.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ServicesVM.swift; sourceTree = "<group>"; };
+		5DB53A8A29D63C16003CF240 /* NeighborhoodServicesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NeighborhoodServicesView.swift; sourceTree = "<group>"; };
+		5DB53A8C29D641A2003CF240 /* listView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = listView.swift; sourceTree = "<group>"; };
+		5DB53A8E29D64236003CF240 /* ListElement.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListElement.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,9 +81,11 @@
 		5DB53A4D29D5280A003CF240 /* Aljerah */ = {
 			isa = PBXGroup;
 			children = (
-				5DB53A4E29D5280A003CF240 /* AljerahApp.swift */,
-				5DB53A5029D5280A003CF240 /* ContentView.swift */,
-				5DB53A5229D5280A003CF240 /* Assets.xcassets */,
+				5DB53A6A29D5296B003CF240 /* View */,
+				5DB53A8229D5ECD5003CF240 /* ViewModel */,
+				5DB53A7B29D59A39003CF240 /* Model */,
+				5DB53A6529D528F5003CF240 /* Helper */,
+				5DB53A6D29D52A57003CF240 /* Assets.xcassets */,
 				5DB53A5429D5280A003CF240 /* Preview Content */,
 			);
 			path = Aljerah;
@@ -65,6 +97,91 @@
 				5DB53A5529D5280A003CF240 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		5DB53A6129D528A6003CF240 /* NewsView */ = {
+			isa = PBXGroup;
+			children = (
+				5DB53A7129D52AF6003CF240 /* NewsView.swift */,
+			);
+			path = NewsView;
+			sourceTree = "<group>";
+		};
+		5DB53A6229D528B9003CF240 /* ProfileView */ = {
+			isa = PBXGroup;
+			children = (
+				5DB53A7329D52B05003CF240 /* ProfileView.swift */,
+			);
+			path = ProfileView;
+			sourceTree = "<group>";
+		};
+		5DB53A6329D528CF003CF240 /* HomeView */ = {
+			isa = PBXGroup;
+			children = (
+				5DB53A6F29D52AE4003CF240 /* HomePageView.swift */,
+				5DB53A7529D52B76003CF240 /* ScrollingView.swift */,
+				5DB53A7929D52FB7003CF240 /* SingleSelector.swift */,
+				5DB53A8729D63BD8003CF240 /* NeighborhoodServices */,
+			);
+			path = HomeView;
+			sourceTree = "<group>";
+		};
+		5DB53A6429D528DC003CF240 /* FirstViews */ = {
+			isa = PBXGroup;
+			children = (
+				5DB53A4E29D5280A003CF240 /* AljerahApp.swift */,
+				5DB53A5C29D52833003CF240 /* SplashScreen.swift */,
+				5DB53A6B29D529A0003CF240 /* TabBar.swift */,
+			);
+			path = FirstViews;
+			sourceTree = "<group>";
+		};
+		5DB53A6529D528F5003CF240 /* Helper */ = {
+			isa = PBXGroup;
+			children = (
+				5DB53A6629D52921003CF240 /* Helper.swift */,
+				5DB53A6829D52930003CF240 /* Extensions.swift */,
+				5DB53A7729D52D70003CF240 /* Modifiers.swift */,
+			);
+			path = Helper;
+			sourceTree = "<group>";
+		};
+		5DB53A6A29D5296B003CF240 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				5DB53A6429D528DC003CF240 /* FirstViews */,
+				5DB53A6329D528CF003CF240 /* HomeView */,
+				5DB53A6129D528A6003CF240 /* NewsView */,
+				5DB53A6229D528B9003CF240 /* ProfileView */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		5DB53A7B29D59A39003CF240 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				5DB53A8029D59B1D003CF240 /*  NeighborhoodServicesModel.swift */,
+				5DB53A7C29D59A6D003CF240 /* ServicesModel.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		5DB53A8229D5ECD5003CF240 /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+				5DB53A8529D5ED2A003CF240 /* ServicesVM.swift */,
+			);
+			path = ViewModel;
+			sourceTree = "<group>";
+		};
+		5DB53A8729D63BD8003CF240 /* NeighborhoodServices */ = {
+			isa = PBXGroup;
+			children = (
+				5DB53A8A29D63C16003CF240 /* NeighborhoodServicesView.swift */,
+				5DB53A8C29D641A2003CF240 /* listView.swift */,
+				5DB53A8E29D64236003CF240 /* ListElement.swift */,
+			);
+			path = NeighborhoodServices;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,8 +242,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5DB53A6E29D52A57003CF240 /* Assets.xcassets in Resources */,
 				5DB53A5629D5280A003CF240 /* Preview Assets.xcassets in Resources */,
-				5DB53A5329D5280A003CF240 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -137,8 +254,23 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5DB53A5129D5280A003CF240 /* ContentView.swift in Sources */,
+				5DB53A8D29D641A2003CF240 /* listView.swift in Sources */,
+				5DB53A7429D52B05003CF240 /* ProfileView.swift in Sources */,
+				5DB53A8629D5ED2A003CF240 /* ServicesVM.swift in Sources */,
+				5DB53A7A29D52FB7003CF240 /* SingleSelector.swift in Sources */,
+				5DB53A6929D52930003CF240 /* Extensions.swift in Sources */,
+				5DB53A5D29D52833003CF240 /* SplashScreen.swift in Sources */,
 				5DB53A4F29D5280A003CF240 /* AljerahApp.swift in Sources */,
+				5DB53A7829D52D70003CF240 /* Modifiers.swift in Sources */,
+				5DB53A8129D59B1D003CF240 /*  NeighborhoodServicesModel.swift in Sources */,
+				5DB53A7229D52AF6003CF240 /* NewsView.swift in Sources */,
+				5DB53A7D29D59A6D003CF240 /* ServicesModel.swift in Sources */,
+				5DB53A6729D52921003CF240 /* Helper.swift in Sources */,
+				5DB53A7029D52AE4003CF240 /* HomePageView.swift in Sources */,
+				5DB53A6C29D529A0003CF240 /* TabBar.swift in Sources */,
+				5DB53A8F29D64236003CF240 /* ListElement.swift in Sources */,
+				5DB53A7629D52B76003CF240 /* ScrollingView.swift in Sources */,
+				5DB53A8B29D63C16003CF240 /* NeighborhoodServicesView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

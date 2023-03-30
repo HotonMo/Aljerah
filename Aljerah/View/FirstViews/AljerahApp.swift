@@ -11,7 +11,7 @@ import SwiftUI
 struct AljerahApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            SplashScreen()
         }
     }
 }
